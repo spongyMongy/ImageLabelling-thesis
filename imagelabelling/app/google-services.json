@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142420290443",
+    "firebase_url": "https://languageimagelabelling.firebaseio.com",
+    "project_id": "languageimagelabelling",
+    "storage_bucket": "languageimagelabelling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142420290443:android:53003dd75a05d48e",
+        "android_client_info": {
+          "package_name": "com.learnlanguage.translator.imagelabelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142420290443-52a5vdgco8mgnqs997imoeinc433r1cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv_gMkrVYMaf4sCvIjmXVFWX_TeSj6Gg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142420290443-52a5vdgco8mgnqs997imoeinc433r1cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
