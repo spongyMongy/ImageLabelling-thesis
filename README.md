@@ -1,8 +1,8 @@
 # ImageLabelling-thesis
 imageLabelling
 
+![Screenshot](ml1.JPG)
+![Screenshot](ml2.JPG)
+![Screenshot](ml3.JPG)
 
 
-https://github.com/spongyMongy/ImageLabelling-thesis/blob/master/ml1.JPG
-https://github.com/spongyMongy/ImageLabelling-thesis/blob/master/ml2.JPG
-https://github.com/spongyMongy/ImageLabelling-thesis/blob/master/ml3.JPG
